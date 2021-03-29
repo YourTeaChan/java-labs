@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="251.0" y="0.0">Bank.Credit.TargetedCredits.CarCredit</node>
+    <node x="0.0" y="0.0">Bank.InformationAboutClient.Client</node>
+    <node x="0.0" y="541.0">Bank.Credit.TargetedCredits.BusinessStartUpCredit</node>
+    <node x="368.0" y="541.0">Bank.Credit.TargetedCredits.CreditForHouseholdAppliances</node>
+    <node x="0.0" y="640.0">Bank.Credit.TargetedCredits.OtherCredit</node>
+    <node x="368.0" y="640.0">Bank.Credit.TargetedCredits.Mortgage</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="405.64285714285734" y="334.5714285714285" />
+  <SelectedNodes>
+    <node>Bank.Credit.TargetedCredits.CreditForHouseholdAppliances</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
