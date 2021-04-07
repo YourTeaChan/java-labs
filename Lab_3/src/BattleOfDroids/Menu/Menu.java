@@ -124,6 +124,6 @@ public class Menu {
         String energyDroid = "♦Energy droid (recover energy +20♦ thrice)";
         String fireDroid = "#Fire droid (2x damage thrice)";
         System.out.print((char) 27 + "[35m");
-        System.out.printf("\n%80s\n%123s\n%115s\n", darkSide, energyDroid, iceDroid);
+        System.out.printf("\n%80s\n%123s\n%115s\n", darkSide, energyDroid, fireDroid);
     }
 }
